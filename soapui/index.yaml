@@ -3,7 +3,7 @@ entries:
   helm-k8s-integration:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T20:55:30.788684515Z"
+    created: "2020-08-05T21:11:10.573172291Z"
     description: A Helm chart for Kubernetes
     digest: 2f5ba4c0133e61c1d00ff030b36e95ea6dc50602b0b8d39f49355ed072b6fb71
     name: helm-k8s-integration
@@ -11,4 +11,14 @@ entries:
     urls:
     - https://helm-registry.github.io/2020_08_05_20_55_29/helm-k8s-integration-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-05T20:55:30.788318235Z"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-05T21:11:10.573317622Z"
+    description: A Helm chart for Kubernetes
+    digest: b466f1fd8d9b986017b5bd9d3748eafb60f8d09743b07fd46b44bfc887d3549d
+    name: helm-k8s-integration
+    type: application
+    urls:
+    - https://helm-registry.github.io/2020_08_05_21_11_09/helm-k8s-integration-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-05T21:11:10.572906623Z"
