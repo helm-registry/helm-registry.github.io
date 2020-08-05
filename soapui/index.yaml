@@ -3,7 +3,7 @@ entries:
   helm-k8s-integration:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.918445365Z"
+    created: "2020-08-05T21:54:03.801731451Z"
     description: A Helm chart for Kubernetes
     digest: 2f5ba4c0133e61c1d00ff030b36e95ea6dc50602b0b8d39f49355ed072b6fb71
     name: helm-k8s-integration
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.918592992Z"
+    created: "2020-08-05T21:54:03.801879216Z"
     description: A Helm chart for Kubernetes
     digest: b466f1fd8d9b986017b5bd9d3748eafb60f8d09743b07fd46b44bfc887d3549d
     name: helm-k8s-integration
@@ -23,7 +23,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.918727571Z"
+    created: "2020-08-05T21:54:03.8020252Z"
     description: A Helm chart for Kubernetes
     digest: 5880e66ed2826aecda729b400b8429d3870bd3fe19cd82c1158c7830fa8d421e
     name: helm-k8s-integration
@@ -33,7 +33,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.918900191Z"
+    created: "2020-08-05T21:54:03.802190648Z"
     description: A Helm chart for Kubernetes
     digest: 68529b28ecba41ac4cfc69305eeffda2929eadb54e58b66eab2cf7f743a80983
     name: helm-k8s-integration
@@ -43,7 +43,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919033Z"
+    created: "2020-08-05T21:54:03.802428619Z"
     description: A Helm chart for Kubernetes
     digest: 393fc5f90b8f92e95848fbe55790793aac46a19a254be372b7705073818c0430
     name: helm-k8s-integration
@@ -53,7 +53,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.91916132Z"
+    created: "2020-08-05T21:54:03.802567022Z"
     description: A Helm chart for Kubernetes
     digest: b60fc45a03d512d7b59754fe8e2a75112611d578f11648b06ece31787f9c85e5
     name: helm-k8s-integration
@@ -63,7 +63,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919322874Z"
+    created: "2020-08-05T21:54:03.802700029Z"
     description: A Helm chart for Kubernetes
     digest: a1b6a168f55efe1d94e4bd4d40ea5846290c44d1ae837a1b7d855d6289f70c86
     name: helm-k8s-integration
@@ -73,7 +73,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919462795Z"
+    created: "2020-08-05T21:54:03.802833079Z"
     description: A Helm chart for Kubernetes
     digest: a25a9d9e2b79608008fa43b045fe934a6714d84dacfb8ebd25e6624a360b2e03
     name: helm-k8s-integration
@@ -83,7 +83,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919596007Z"
+    created: "2020-08-05T21:54:03.802964265Z"
     description: A Helm chart for Kubernetes
     digest: 06139552772b7addb17168a046ffb28b58ec9ec4bd82b42816212be446c1113a
     name: helm-k8s-integration
@@ -93,7 +93,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919741388Z"
+    created: "2020-08-05T21:54:03.803092206Z"
     description: A Helm chart for Kubernetes
     digest: a88f3a984a7177cd4fa500e54148e5439e895520527bfdbb77539196b1cffcc5
     name: helm-k8s-integration
@@ -103,7 +103,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-05T21:53:20.919913178Z"
+    created: "2020-08-05T21:54:03.803328483Z"
     description: A Helm chart for Kubernetes
     digest: 362755b345f0806705ba4d13d79d23e55b2ba24766a9041d5428eff5ab12173d
     name: helm-k8s-integration
@@ -111,4 +111,14 @@ entries:
     urls:
     - https://helm-registry.github.io/soapui/2020_08_05_21_53_19/helm-k8s-integration-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-05T21:53:20.918147456Z"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-05T21:54:03.803484542Z"
+    description: A Helm chart for Kubernetes
+    digest: df3893c07b8ac3dfb3d38d6d0f44c867c61b64b3481bf398a7de2977d9b20193
+    name: helm-k8s-integration
+    type: application
+    urls:
+    - https://helm-registry.github.io/soapui/2020_08_05_21_54_02/helm-k8s-integration-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-05T21:54:03.801469128Z"
